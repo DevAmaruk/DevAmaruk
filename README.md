@@ -46,3 +46,6 @@ I'm a Unity developer and a 3D artist with a passion for creating immersive expe
 - 🎮 I love video games, especially story-driven games like The Legend of Zelda.
 - 🎲 I'm a big fan of board games.
 - 🖥️ When I'm not coding or designing, you can find me exploring new worlds in games or creating my own.
+
+
+![Visitor Count](https://profile-counter.glitch.me/DevAmaruk/count.svg)

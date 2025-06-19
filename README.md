@@ -33,7 +33,8 @@ I'm a Unity developer and a 3D artist with a passion for creating immersive expe
 ## 🌱 Current Projects
 
 ### HomeFlow
-🔗 [Mobile Web App](https://github.com/DevAmaruk/HomeFlow) - HomeFlow is a friendly and collaborative Chore Task Manager. Each member of a **family** contributes on the chores to make their virtual garden alive!
+🔗 [HomeFlow](https://github.com/DevAmaruk/HomeFlow) - HomeFlow is a friendly and collaborative Chore Task Manager. Each member of a **family** contributes on the chores to make their virtual garden alive!
+
 ![Info](https://img.shields.io/badge/Info-%20-blue?labelColor=blue) The current version is not complete and lacks a few features. A **version 2.0** is under production.
 
 ## 🌍 Connect with Me

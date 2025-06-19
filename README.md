@@ -1,18 +1,51 @@
-# 💫 About Me:
-I'm Amaruk, a Unity developer and newly Angular dev. <br>I love video games and especially the story driven ones. <br>I work currently on HomeFlow, my first Angular mobile app, which is a friendly and collaborative Chore Task Manager. <br>I wish to create a video game one day with Unity.<br><br>
+# Hi there 👋, I'm Amaruk
 
+I'm a Unity developer and a 3D artist with a passion for creating immersive experiences. Recently, I've also become an Angular developer, specializing in mobile web applications using Ionic and Capacitor.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jguthauser) 
+## 🔧 Technologies & Tools
 
-# 💻 Tech Stack:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevAmaruk&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DevAmaruk&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAmaruk&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### Game Development & 3D Art
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
----
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DevAmaruk)
+### Web Development
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Design & Productivity Tools
+![Affinity Designer](https://img.shields.io/badge/-Affinity%20Designer-1B72BE?style=flat&logo=affinity-designer&logoColor=white)
+![Affinity Photo](https://img.shields.io/badge/-Affinity%20Photo-1B72BE?style=flat&logo=affinity-photo&logoColor=white)
+![Affinity Publisher](https://img.shields.io/badge/-Affinity%20Publisher-1B72BE?style=flat&logo=affinity-publisher&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-050038?style=flat&logo=miro&logoColor=white)
+![GitKraken](https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Amaruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAmaruk&show_icons=true&theme=radical)
+
+## 🌱 Current Projects
+
+### Mobile Web Application
+🔗 [Mobile Web App](https://github.com/DevAmaruk/your-repo-name) - A mobile web application developed during my course on Mobile Web Application Development with Angular, Ionic, and Capacitor. Currently working on version 2.0!
+
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jguthauser)
+
+## 🎮 Fun Facts
+
+- 🎮 I love video games, especially story-driven games like The Legend of Zelda.
+- 🎲 I'm a big fan of board games.
+- 🖥️ When I'm not coding or designing, you can find me exploring new worlds in games or creating my own.
+
+## 🎨 ASCII Art
+
+Here's a little something for fellow gamers:
+

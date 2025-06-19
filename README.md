@@ -32,8 +32,9 @@ I'm a Unity developer and a 3D artist with a passion for creating immersive expe
 
 ## 🌱 Current Projects
 
-### Mobile Web Application
-🔗 [Mobile Web App](https://github.com/DevAmaruk/your-repo-name) - A mobile web application developed during my course on Mobile Web Application Development with Angular, Ionic, and Capacitor. Currently working on version 2.0!
+### HomeFlow
+🔗 [Mobile Web App](https://github.com/DevAmaruk/HomeFlow) - HomeFlow is a friendly and collaborative Chore Task Manager. Each member of a **family** contributes on the chores to make their virtual garden alive!
+![Info](https://img.shields.io/badge/Info-%20-blue?labelColor=blue) The current version is not complete and lacks a few features. A **version 2.0** is under production.
 
 ## 🌍 Connect with Me
 
@@ -44,8 +45,3 @@ I'm a Unity developer and a 3D artist with a passion for creating immersive expe
 - 🎮 I love video games, especially story-driven games like The Legend of Zelda.
 - 🎲 I'm a big fan of board games.
 - 🖥️ When I'm not coding or designing, you can find me exploring new worlds in games or creating my own.
-
-## 🎨 ASCII Art
-
-Here's a little something for fellow gamers:
-

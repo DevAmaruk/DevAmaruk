@@ -13,6 +13,6 @@ I'm Amaruk, a Unity developer and newly Angular dev. <br>I love video games and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAmaruk&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DevAmarukd&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=DevAmaruk)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -10,6 +10,10 @@ A bit more about me: I'm a **curious** and very **kind** person. I love sharing 
 
 If you’ve got thoughts, ideas, or even better, constructive criticism, I’m all ears! And if you’ve got a good joke, I’m all laughs too. 😂
 
+### Languages spoken
+
+![French](https://img.shields.io/badge/French-FF0000?style=flat&logoColor=white) ![English](https://img.shields.io/badge/English-0057B7?style=flat&logoColor=white) ![Portuguese](https://img.shields.io/badge/Portuguese-006600?style=flat&logoColor=white)
+
 ## 🔧 Technologies & Tools
 
 ### Game Development & 3D Art

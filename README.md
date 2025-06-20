@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm <img src="resources/github_username_handwritten.svg" alt="username handwritten" width="110" height="auto">
 
-I'm a <img src="resources/switzerland.png" alt="swiss flag" width="12" height="12"> Swiss Unity developer and a 3D artist with a passion for creating immersive experiences. Recently, I've also become an Angular developer, specializing in mobile web applications using Ionic and Capacitor.
+I'm a Swiss <img src="resources/switzerland.png" alt="swiss flag" width="16" height="16"> Unity developer and a 3D artist with a passion for creating immersive experiences. Recently, I've also become an Angular developer, specializing in mobile web applications using Ionic and Capacitor.
 
 A bit more about me: I'm a **curious** and very **kind** person. I love sharing knowledge and receiving it too! Always open to comments and feedback, as long as they’re constructive and not just “I dislike your work” (because, let’s be honest, who has time for that kind of negativity?). 😉
 

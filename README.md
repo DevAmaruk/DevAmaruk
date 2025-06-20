@@ -6,6 +6,10 @@
 
 I'm a Unity developer and a 3D artist with a passion for creating immersive experiences. Recently, I've also become an Angular developer, specializing in mobile web applications using Ionic and Capacitor.
 
+A bit more about me: I'm a **curious** and very **kind** person. I love sharing knowledge and receiving it too! Always open to comments and feedback, as long as they’re constructive and not just “I dislike your work” (because, let’s be honest, who has time for that kind of negativity?). 😉
+
+If you’ve got thoughts, ideas, or even better, constructive criticism, I’m all ears! And if you’ve got a good joke, I’m all laughs too. 😂
+
 ## 🔧 Technologies & Tools
 
 ### Game Development & 3D Art

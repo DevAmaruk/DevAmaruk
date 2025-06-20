@@ -1,19 +1,21 @@
 <div align="center">
-  <img src="logo.png" alt="logo of Amaruk" width="256" height="256">
+  <img src="resources/logo.png" alt="logo of Amaruk" width="256" height="256">
 </div>
 
-# Hi there 👋, I'm Amaruk
+# Hi there 👋, I'm <img src="resources/github_username_handwritten.svg" alt="username handwritten">
 
 I'm a Unity developer and a 3D artist with a passion for creating immersive experiences. Recently, I've also become an Angular developer, specializing in mobile web applications using Ionic and Capacitor.
 
 ## 🔧 Technologies & Tools
 
 ### Game Development & 3D Art
+
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ### Web Development
+
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
@@ -22,6 +24,7 @@ I'm a Unity developer and a 3D artist with a passion for creating immersive expe
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### Design & Productivity Tools
+
 ![Affinity Designer](https://img.shields.io/badge/-Affinity%20Designer-1B72BE?style=flat&logo=affinity-designer&logoColor=white)
 ![Affinity Photo](https://img.shields.io/badge/-Affinity%20Photo-1B72BE?style=flat&logo=affinity-photo&logoColor=white)
 ![Affinity Publisher](https://img.shields.io/badge/-Affinity%20Publisher-1B72BE?style=flat&logo=affinity-publisher&logoColor=white)
@@ -37,6 +40,7 @@ I'm a Unity developer and a 3D artist with a passion for creating immersive expe
 ## 🌱 Current Projects
 
 ### HomeFlow
+
 🔗 [HomeFlow](https://github.com/DevAmaruk/HomeFlow) - HomeFlow is a friendly and collaborative Chore Task Manager. Each member of a **family** contributes on the chores to make their virtual garden alive!
 
 ![Info](https://img.shields.io/badge/Info-%20-blue?labelColor=blue) The current version is not complete and lacks a few features. A **version 2.0** is under production.
@@ -50,6 +54,5 @@ I'm a Unity developer and a 3D artist with a passion for creating immersive expe
 - 🎮 I love video games, especially story-driven games like The Legend of Zelda.
 - 🎲 I'm a big fan of board games.
 - 🖥️ When I'm not coding or designing, you can find me exploring new worlds in games or creating my own.
-
 
 ![Visitor Count](https://profile-counter.glitch.me/DevAmaruk/count.svg)

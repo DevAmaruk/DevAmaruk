@@ -12,8 +12,10 @@ If you’ve got thoughts, ideas, or even better, constructive criticism, I’m a
 
 ## 🌐 Languages I Speak
 
-🇫🇷 ![French](https://img.shields.io/badge/French-FF0000?style=flat&logoColor=white)
-🇬🇧 ![English](https://img.shields.io/badge/English-0057B7?style=flat&logoColor=white)
+<a href="https://www.flaticon.com/free-icons/france" title="france icons"></a> ![French](https://img.shields.io/badge/French-FF0000?style=flat&logoColor=white)
+
+![English](https://img.shields.io/badge/English-0057B7?style=flat&logoColor=white)
+
 🇵🇹 ![Portuguese](https://img.shields.io/badge/Portuguese-006600?style=flat&logoColor=white)
 
 ## 🔧 Technologies & Tools

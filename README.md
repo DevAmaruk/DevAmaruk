@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm <img src="resources/github_username_handwritten.svg" alt="username handwritten" width="110" height="auto">
 
-I'm a <img src="resources/switzerland.png" alt="swiss flag" width="24" height="24"> Swiss Unity developer and a 3D artist with a passion for creating immersive experiences. Recently, I've also become an Angular developer, specializing in mobile web applications using Ionic and Capacitor.
+I'm a <img src="resources/switzerland.png" alt="swiss flag" width="12" height="12"> Swiss Unity developer and a 3D artist with a passion for creating immersive experiences. Recently, I've also become an Angular developer, specializing in mobile web applications using Ionic and Capacitor.
 
 A bit more about me: I'm a **curious** and very **kind** person. I love sharing knowledge and receiving it too! Always open to comments and feedback, as long as they’re constructive and not just “I dislike your work” (because, let’s be honest, who has time for that kind of negativity?). 😉
 
@@ -12,11 +12,11 @@ If you’ve got thoughts, ideas, or even better, constructive criticism, I’m a
 
 ## 🌐 Languages I Speak
 
-<img src="resources/france.png" alt="french flag" width="24" height="24"> ![French](https://img.shields.io/badge/French-FF0000?style=flat&logoColor=white)
+![French](https://img.shields.io/badge/French-FF0000?style=flat&logoColor=white) <img src="resources/france.png" alt="french flag" width="24" height="24">
 
-<img src="resources/united-kingdom.png" alt="french flag" width="24" height="24"> ![English](https://img.shields.io/badge/English-0057B7?style=flat&logoColor=white)
+![English](https://img.shields.io/badge/English-0057B7?style=flat&logoColor=white) <img src="resources/united-kingdom.png" alt="french flag" width="24" height="24">
 
-<img src="resources/portugal.png" alt="french flag" width="24" height="24"> ![Portuguese](https://img.shields.io/badge/Portuguese-006600?style=flat&logoColor=white)
+![Portuguese](https://img.shields.io/badge/Portuguese-006600?style=flat&logoColor=white) <img src="resources/portugal.png" alt="french flag" width="24" height="24">
 
 ## 🔧 Technologies & Tools
 

@@ -12,10 +12,10 @@ If you’ve got thoughts, ideas, or even better, constructive criticism, I’m a
 
 ## 🌐 Languages I Speak
 
-<div style="display: flex; gap: 10px;">
-  <img src="resources/france.png" alt="french flag" width="24" height="24">
-  <img src="resources/united-kingdom.png" alt="french flag" width="24" height="24">
-  <img src="resources/portugal.png" alt="french flag" width="24" height="24">
+<div style="display: flex; gap: 50px;">
+  <img src="resources/france.png" alt="french flag" width="48" height="48">
+  <img src="resources/united-kingdom.png" alt="french flag" width="48" height="48">
+  <img src="resources/portugal.png" alt="french flag" width="48" height="48">
 </div>
 
 ## 🔧 Technologies & Tools

@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logo.png" alt="logo of Amaruk" width="256" height="256">
+</div>
+
 # Hi there 👋, I'm Amaruk
 
 I'm a Unity developer and a 3D artist with a passion for creating immersive experiences. Recently, I've also become an Angular developer, specializing in mobile web applications using Ionic and Capacitor.

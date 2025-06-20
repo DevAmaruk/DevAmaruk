@@ -12,11 +12,11 @@ If you’ve got thoughts, ideas, or even better, constructive criticism, I’m a
 
 ## 🌐 Languages I Speak
 
-![French](https://img.shields.io/badge/French-FF0000?style=flat&logoColor=white) <img src="resources/france.png" alt="french flag" width="24" height="24">
-
-![English](https://img.shields.io/badge/English-0057B7?style=flat&logoColor=white) <img src="resources/united-kingdom.png" alt="french flag" width="24" height="24">
-
-![Portuguese](https://img.shields.io/badge/Portuguese-006600?style=flat&logoColor=white) <img src="resources/portugal.png" alt="french flag" width="24" height="24">
+<div style="display: flex; gap: 10px;">
+  <img src="resources/france.png" alt="french flag" width="24" height="24">
+  <img src="resources/united-kingdom.png" alt="french flag" width="24" height="24">
+  <img src="resources/portugal.png" alt="french flag" width="24" height="24">
+</div>
 
 ## 🔧 Technologies & Tools
 

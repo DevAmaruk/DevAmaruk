@@ -45,6 +45,10 @@ If you’ve got thoughts, ideas, or even better, constructive criticism, I’m a
 ![GitKraken](https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 
+## 🏫 Learning
+
+I'm currently learning: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge)
+
 ## 📊 GitHub Stats
 
 ![Amaruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAmaruk&show_icons=true&theme=radical)

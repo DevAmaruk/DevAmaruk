@@ -57,7 +57,7 @@ I'm currently learning: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?
 
 ### HomeFlow
 
-🔗 [HomeFlow](https://github.com/DevAmaruk/HomeFlow) - HomeFlow is a friendly and collaborative Chore Task Manager. Each member of a **family** contributes on the chores to make their virtual garden alive!
+🔗 HomeFlow - HomeFlow is a friendly and collaborative Chore Task Manager. Each member of a **family** contributes on the chores to make their virtual garden alive!
 
 ![Info](https://img.shields.io/badge/Info-%20-blue?labelColor=blue) The current version is not complete and lacks a few features. A **version 2.0** is under production.
 

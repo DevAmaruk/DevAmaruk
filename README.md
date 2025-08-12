@@ -70,5 +70,3 @@ I'm currently learning: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?
 - 🎮 I love video games, especially story-driven games like The Legend of Zelda.
 - 🎲 I'm a big fan of board games.
 - 🖥️ When I'm not coding or designing, you can find me exploring new worlds in games or creating my own.
-
-![Visitor Count](https://profile-counter.glitch.me/DevAmaruk/count.svg)

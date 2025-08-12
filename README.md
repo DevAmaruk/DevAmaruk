@@ -47,7 +47,7 @@ If you’ve got thoughts, ideas, or even better, constructive criticism, I’m a
 
 ## 🏫 Learning
 
-I'm currently learning: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge) and ![Flutter](https://img.shields.io/badge/Flutter-flutter.svg?style=for-the-badge)
+I'm currently learning: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge) ![Flutter](https://img.shields.io/badge/Flutter-flutter.svg?style=for-the-badge)
 
 ## 📊 GitHub Stats
 

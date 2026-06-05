@@ -3,7 +3,7 @@
 <img src="resources/logo.png" alt="Amaruk logo" width="120" height="120" style="border-radius: 50%;">
 
 # Hey, I'm Amaruk 👋
-### Angular & Ionic Developer · 3D Artist · Swiss Made 🇨🇭
+### Frontend Developer · 3D Artist · Swiss Made 🇨🇭
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jguthauser)
 
@@ -13,12 +13,13 @@
 
 ## 🚀 About Me
 
-I'm a Swiss developer passionate about crafting **mobile web applications** with Angular and Ionic. I bring a creative edge from my background in **Unity game development** and **3D art** — which means I care deeply about both the code *and* the experience it creates.
+I'm a Swiss frontend developer with a passion for building **clean, thoughtful web and mobile experiences**. My stack is centred around Angular and Ionic, and I'm currently deepening my CSS and layout fundamentals — Grid, Flexbox, BEM, custom properties — through deliberate, hands-on practice.
+
+I bring a creative edge from my background in **Unity game development** and **3D art**, which means I care as much about the experience as the code behind it.
 
 I'm a curious, kind, and collaborative person who loves sharing knowledge and growing through constructive feedback. If you have ideas, thoughts, or even a good joke — I'm all ears (and laughs 😂).
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile & Web
@@ -27,6 +28,8 @@ I'm a curious, kind, and collaborative person who loves sharing knowledge and gr
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🎮 Game Dev & 3D Art
@@ -80,6 +83,6 @@ I'm a curious, kind, and collaborative person who loves sharing knowledge and gr
 
 <div align="center">
 
-*Open to Angular & Ionic opportunities — let's build something great together!*
+*Open to frontend opportunities in Switzerland — Angular, Ionic, or beyond. Let's build something great together!*
 
 </div>
